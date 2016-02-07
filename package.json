@@ -9,7 +9,7 @@
   },
   "engines": {
     "node": "4.2.6",
-    "npm": "2.4.12"
+    "npm": "2.14.12"
   },
   "license": "ISC",
   "dependencies": {
@@ -19,7 +19,7 @@
     "es6-shim": "^0.33.3",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.0",
-    "zone.js": "0.5.11",
+    "zone.js": "git+https://c8428cec288eff8bb39827dc25e161ccbdef23a1:x-oauth-basic@github.com/a-lucas/zone.js.git",
     "concurrently": "^1.0.0",
     "lite-server": "^2.0.1",
     "typescript": "^1.7.5",
