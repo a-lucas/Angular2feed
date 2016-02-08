@@ -1,4 +1,5 @@
 System.register(['angular2/platform/browser', './app'], function(exports_1) {
+    "use strict";
     var browser_1, app_1;
     return {
         setters:[

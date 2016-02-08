@@ -13,17 +13,18 @@
   },
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
     "angular2": "2.0.0-beta.3",
     "systemjs": "0.19.6",
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.33.3",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.0",
-    "zone.js": "git+https://c8428cec288eff8bb39827dc25e161ccbdef23a1:x-oauth-basic@github.com/a-lucas/zone.js.git",
+    "zone.js": "0.5.13",
     "concurrently": "^1.0.0",
-    "lite-server": "^2.0.1",
     "typescript": "^1.7.5",
-    "tsd": "latest",
-    "gulp": "latest"
+    "lite-server": "^2.0.1"
   }
 }
